@@ -3,3 +3,10 @@
 target
 .DS_Store
 TODO.md
+/Gemfile.lock
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp

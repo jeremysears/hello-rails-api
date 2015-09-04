@@ -1,3 +1,8 @@
+Overview:
+
+This is a simple Rails::API hello world application, which demonstrates basic Rails::API request/response handling.
+This currently still contains some vestiges of active_record, which are not used and can be safely removed.
+
 Installation:
 
 1) Run './bin/bundle install'
